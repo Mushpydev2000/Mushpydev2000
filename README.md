@@ -1,6 +1,6 @@
-👋 Hey there, I'm Mushpydev2000 or Mushy aka Mushtaq :)
+👋 Hey there, Mushtaq here :)
 
- I'm a passionate and fresh Computer Science graduate with a keen interest in **Data Science**, **MLOps**, and **Cloud DevOps**.
+ I'm a passionate and fresh Data Science graduate with a keen interest in **Data Science**, **MLOps**, and **Cloud DevOps**.
 
 I am Currently Learning
 - Python (Advanced level – data structures, OOP, automation)
@@ -22,9 +22,4 @@ Open to Collaborate
 📩 moh.mush21@gmail.com  
 💼 [LinkedIn](https://www.linkedin.com/in/mohammed-mushtaq-bahauddin-0439b0156/
 
----
-
-> “I believe everyone can code because, from where I started, I believed it was never possible.
-> But it takes the courage to not just solve a problem, but to build a system that evolves.”
-> Come Join Hands and let's build beautiful systems and change the way things work.
 
